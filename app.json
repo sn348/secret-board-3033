@@ -1,0 +1,8 @@
+{
+  "name": "secret-board",
+  "description": "”é–§‚Ì“½–¼ŒfŽ¦”Â",
+  "repository": "https://github.com/progedu/secret-board-3033",
+  "logo": "",
+  "keywords": ["node"],
+  "image": "heroku/nodejs"
+}
